@@ -1,0 +1,18 @@
+.black{
+    border: solid 3px black;
+    color: black;
+    font-weight: 600;
+    font-size: 1rem;
+    width: 200px;
+}
+
+.black :after{
+    content: "";
+    position: absolute;
+    background-color: black;
+    width: calc(100% + 6px);
+    height: 3px;
+    top: calc(100% + 6px);
+    left: -3px;
+}
+

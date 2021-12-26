@@ -1,0 +1,50 @@
+.SP-border {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3% 8%;
+    border: solid black 3px;
+    transition: ease-in-out 0.2s;
+    margin: 30px 0 30px 0;
+}
+
+
+.SP-border:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+
+.SP-UI-container > h2 {
+    font-weight: 600;
+    font-size: 1.7rem;
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.SP-UI-container > p {
+    font-weight: 400;
+    font-size: 1rem;
+    margin-bottom: 0;
+    text-align: start;
+}
+
+@media only screen and (max-width: 770px) {
+    .SP-border {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .SP-border {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 5% 8%;
+    }
+
+    .SP-image-container {
+        padding-top: 40px;
+    }
+}

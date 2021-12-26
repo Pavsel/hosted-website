@@ -1,0 +1,52 @@
+.PD-container {
+    height: 500px;
+    width: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    align-items: end;
+}
+
+.UI-container > h2, .UI-container > p{
+    color: white;
+    margin-bottom: 10%;
+}
+
+.UI-container > h2{
+    font-weight: 600;
+    font-size: 1.7rem;
+}
+
+.UI-container > p{
+    font-weight: 300;
+    font-size: 0.8rem;
+    margin-bottom: 15%;
+}
+
+.UI-container{
+    margin-left: 8%;
+    margin-bottom: 9%;
+}
+
+@media only screen and (max-width: 1200px) {
+    .PD-container {
+        height: 400px;
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .PD-container {
+        height: 300px;
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .PD-container {
+        height: 250px;
+        width: 250px;
+    }
+}

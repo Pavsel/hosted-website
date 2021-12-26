@@ -1,0 +1,45 @@
+.projects {
+    background-color: #F0F0F0;
+}
+
+.SP-container{
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projects-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.left-half {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.right-half {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+@media only screen and (max-width: 770px) {
+    .projects-container {
+        grid-template-columns: 1fr;
+    }
+    .left-half {
+        justify-content: center;
+    }
+    .right-half{
+        align-items: center;
+    }
+}
+
+.mrgn{
+    margin: 10px;
+}

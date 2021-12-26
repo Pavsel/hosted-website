@@ -1,0 +1,47 @@
+.hero {
+    height: 100vh;
+    background-color: #F0F0F0;
+}
+
+.hero-container {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    border: 8px solid #000000;
+    text-align: center;
+    /*padding: 5vh 10vw;*/
+    contain: content;
+    width: 60%;
+}
+
+.hero-container > p {
+    letter-spacing: 0.055em;
+    color: #353535;
+    padding: 0 10vw 3vh 10vw;
+
+}
+.hero-container > h1 {
+    margin: 2vh 0 0 0;
+    font-size: 4rem;
+}
+
+.arrow{
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 850px) {
+    .hero-container {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .hero-container > h1 {
+        font-size: 3rem;
+    }
+
+}

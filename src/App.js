@@ -1,17 +1,16 @@
 import React from "react";
 import './App.css';
 
-import Hero from "./components/Hero/Hero";
+import Hero from "./components/hero section/Hero";
 import Projects from "./components/Projects/Projects";
 import Art from "./components/Art/Art";
 import Dance from "./components/Dance/Dance";
+import ButtonBlack from "./components/button/button-black/ButtonBlack";
 
 function App() {
     return (
         <>
             <Hero/>
-            <div className="break"/>
-            <div className="break"/>
             <Projects/>
             <div className="break">
                 <div/>

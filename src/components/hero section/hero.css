@@ -1,0 +1,111 @@
+.background-container {
+    /*height: 100vh;*/
+    width: 100%;
+    /*background-color: #0F0F0F;*/
+    /*overflow-x: hidden;*/
+}
+
+.hero-container {
+    /*height: 100vh;*/
+    width: 100%;
+
+    overflow-x: hidden;
+    text-align: start;
+    background-color: #0F0F0F;
+    overflow-y: hidden;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 0 10% 10% 10%;
+    height: 100vh;
+}
+
+.title-container > h1 {
+    color: white;
+    line-height: 100%;
+    margin-bottom: 30px;
+}
+
+.title-container > p {
+    color: white;
+    font-weight: 300;
+}
+
+
+.hero-graphic {
+    /*object-fit: cover;*/
+
+    width: 60%;
+    align-self: center;
+    /*height: 80%;*/
+    /*z-index: 0;*/
+}
+
+.title-container {
+    /*width: 80%;*/
+    position: absolute;
+    bottom: 10vh;
+    left: 5%;
+}
+
+.arrow {
+    position: absolute;
+    bottom: 5%;
+    right: 3%;
+    z-index: 99;
+}
+
+.title-container > h1 {
+    text-align: start;
+    width: 80%;
+    /*overflow-x: unset;*/
+}
+
+@media only screen and (max-width: 1024px) {
+    .title-container {
+        /*width: 80%;*/
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: start;
+    }
+
+
+    .hero-container {
+        justify-content: space-around;
+    }
+
+    .title-container > h1 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    .title-container > h1 {
+        text-align: center;
+    }
+
+    .title-container > p {
+        text-align: center;
+    }
+
+    .hero-graphic {
+        width: 100%;
+    }
+
+    /*.hero-graphic {*/
+    /*    width: 150%;*/
+    /*}*/
+}
+
+@media only screen and (max-width: 500px) {
+    .title-container > h1 {
+        font-size: 2rem;
+    }
+
+    /*.hero-graphic {*/
+    /*    width: 150%;*/
+    /*}*/
+}

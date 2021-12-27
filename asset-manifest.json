@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.732a1113.css",
-    "main.js": "/static/js/main.a57ccc4e.js",
+    "main.css": "/static/css/main.6dafb998.css",
+    "main.js": "/static/js/main.1777a084.js",
     "static/js/787.ef59d076.chunk.js": "/static/js/787.ef59d076.chunk.js",
+    "static/media/hero-animation.mp4": "/static/media/hero-animation.a540857fbcd3c8cb0eae.mp4",
     "static/media/13.png": "/static/media/13.8e1faef915ae04534afd.png",
     "static/media/hookman-cover.png": "/static/media/hookman-cover.25a422740dd1ae0a84d7.png",
     "static/media/08.png": "/static/media/08.05ead874bb6a8285eeb4.png",
@@ -21,12 +22,12 @@
     "static/media/12.png": "/static/media/12.080ca30ac7c55cd8aa2a.png",
     "index.html": "/index.html",
     "static/media/button-arrow.svg": "/static/media/button-arrow.dcc3e6f57d6158b79d3df23e7e082d7a.svg",
-    "main.732a1113.css.map": "/static/css/main.732a1113.css.map",
-    "main.a57ccc4e.js.map": "/static/js/main.a57ccc4e.js.map",
+    "main.6dafb998.css.map": "/static/css/main.6dafb998.css.map",
+    "main.1777a084.js.map": "/static/js/main.1777a084.js.map",
     "787.ef59d076.chunk.js.map": "/static/js/787.ef59d076.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.732a1113.css",
-    "static/js/main.a57ccc4e.js"
+    "static/css/main.6dafb998.css",
+    "static/js/main.1777a084.js"
   ]
 }

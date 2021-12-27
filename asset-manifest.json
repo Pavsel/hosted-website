@@ -1,19 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.112a7bcc.css",
-    "main.js": "/static/js/main.6e6b5ebe.js",
+    "main.css": "/static/css/main.732a1113.css",
+    "main.js": "/static/js/main.a57ccc4e.js",
     "static/js/787.ef59d076.chunk.js": "/static/js/787.ef59d076.chunk.js",
+    "static/media/13.png": "/static/media/13.8e1faef915ae04534afd.png",
     "static/media/hookman-cover.png": "/static/media/hookman-cover.25a422740dd1ae0a84d7.png",
+    "static/media/08.png": "/static/media/08.05ead874bb6a8285eeb4.png",
     "static/media/3d-graphing-cover.png": "/static/media/3d-graphing-cover.de0c87da4af78f8e61f0.png",
+    "static/media/02.png": "/static/media/02.391496d1bf455f58208c.png",
+    "static/media/06.png": "/static/media/06.b06a750f8c54689c8d79.png",
+    "static/media/10.png": "/static/media/10.7e4e784a14fc37474c6b.png",
+    "static/media/01.png": "/static/media/01.fafd5b761d59ece5fbd9.png",
+    "static/media/05.png": "/static/media/05.7729d9913eb8ae79bfd6.png",
+    "static/media/07.png": "/static/media/07.7eb18b3e77d6ebb99259.png",
     "static/media/chess-mess-cover.png": "/static/media/chess-mess-cover.b7f2bbd0aab1226232e1.png",
+    "static/media/09.png": "/static/media/09.d3d7020e5e50f79aae0f.png",
+    "static/media/11.png": "/static/media/11.df7e1cb3f075072ea690.png",
+    "static/media/03.png": "/static/media/03.7094d5ce17db74ea4705.png",
+    "static/media/04.png": "/static/media/04.56bff5312136c398872c.png",
+    "static/media/12.png": "/static/media/12.080ca30ac7c55cd8aa2a.png",
     "index.html": "/index.html",
     "static/media/button-arrow.svg": "/static/media/button-arrow.dcc3e6f57d6158b79d3df23e7e082d7a.svg",
-    "main.112a7bcc.css.map": "/static/css/main.112a7bcc.css.map",
-    "main.6e6b5ebe.js.map": "/static/js/main.6e6b5ebe.js.map",
+    "main.732a1113.css.map": "/static/css/main.732a1113.css.map",
+    "main.a57ccc4e.js.map": "/static/js/main.a57ccc4e.js.map",
     "787.ef59d076.chunk.js.map": "/static/js/787.ef59d076.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.112a7bcc.css",
-    "static/js/main.6e6b5ebe.js"
+    "static/css/main.732a1113.css",
+    "static/js/main.a57ccc4e.js"
   ]
 }

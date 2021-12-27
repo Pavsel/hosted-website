@@ -12,10 +12,10 @@
     outline: inherit;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: start;
     align-items: center;
 
-    text-align: end;
+    /*text-align: start;*/
 }
 
 .my-btn > img{

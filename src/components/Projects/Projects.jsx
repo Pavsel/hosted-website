@@ -17,7 +17,7 @@ function Projects() {
                     <div className="mrgn">
                         <ProjectDisplay
                             title="HookMan"
-                            description="Android Mobile Game"
+                            description="Android Mobile Game. Made with Unity 3D and C# from scratch in about 1 week."
                             backgroundImage={HookManCover}
                             link="https://play.google.com/store/apps/details?id=com.Sipcan.HookMan"/></div>
                 </div>
@@ -25,13 +25,13 @@ function Projects() {
                     <div className="mrgn">
                         <ProjectDisplay
                             title="Chess Mess"
-                            description="Game Jam - 48h solo"
+                            description="Game Jam - 48h solo. Created using Unity3D, Blender 3D, LMMS, and Audacity."
                             backgroundImage={ChessMessCover}
-                            link="https://ldjam.com/events/ludum-dare/48/chess-mess"/></div>
+                            link="https://ldjam.com/events/ludum-dare/46/chess-mess"/></div>
                     <div className="mrgn">
                         <ProjectDisplay
                             title="3D Graphing"
-                            description="React Webapp"
+                            description="Hyperbolic graphing webapp. Created with React JS, and three.js library"
                             backgroundImage={GraphingCover}
                             link="https://google.com"/></div>
                 </div>

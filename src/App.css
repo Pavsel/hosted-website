@@ -12,3 +12,22 @@
   height: 3px;
   background-color: black;
 }
+
+.about-container{
+  text-align: center;
+  width: 50%;
+  align-self: center;
+}
+
+.about-section{
+  background-color: #f0f0f0;
+  margin: auto;
+  padding: 3vh 0 3vh;
+  display: flex;
+  justify-content: center;
+}
+@media only screen and (max-width: 500px) {
+  .about-container{
+    width: 80%;
+  }
+}

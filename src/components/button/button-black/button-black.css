@@ -4,6 +4,13 @@
     font-weight: 600;
     font-size: 1rem;
     width: 200px;
+    padding: 0;
+}
+
+.black > p{
+    align-self: center;
+    text-align: start;
+    margin-left: 10px;
 }
 
 .black :after{

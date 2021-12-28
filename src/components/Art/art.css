@@ -1,14 +1,14 @@
-.dance-section{
+.art-section{
     padding: 10%;
     text-align: start;
     background-color: #F0F0F0;
 }
 
-.dance-container > h1{
+.art-container > h1{
     text-align: start;
 }
 
-.dance-container{
+.art-container{
     width: 50%;
     display: flex;
     flex-direction: column;
@@ -16,13 +16,14 @@
     align-items: start;
 }
 
-.dance-container > p > b{
+.art-container > p > b{
     font-weight: 600;
 }
 
-.dance-container > p {
+.art-container > p {
     margin-bottom: 5vh;
 }
+
 
 .gallery{
     margin-top: 10vh;
@@ -42,27 +43,27 @@
 }
 
 @media only screen and (max-width: 770px) {
-    .dance-section{
+    .art-section {
         padding: 10%;
         text-align: center;
         background-color: #F0F0F0;
     }
 
-    .dance-container > h1{
+    .art-container > h1 {
         text-align: center;
     }
 
-    .dance-container{
+    .art-container {
         width: 80%;
         align-items: center;
         margin: auto;
     }
 
-    .dance-container > p > b{
+    .art-container > p > b {
         font-weight: 600;
     }
 
-    .dance-container > p {
+    .art-container > p {
         margin-bottom: 5vh;
     }
 

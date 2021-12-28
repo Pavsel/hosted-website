@@ -1,6 +1,8 @@
 import React from "react";
 import './dance.css';
 
+import DanceImg from '../../assets/dance.png';
+
 
 function Dance() {
     return (
@@ -18,6 +20,9 @@ function Dance() {
                         teaching
                         and my students have been winners of big Canadian and USA competitions.</b>
                 </p>
+            </div>
+            <div className="right-dance-container">
+                <img src={DanceImg} />
             </div>
         </section>
     );

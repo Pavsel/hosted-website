@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dafb998.css",
-    "main.js": "/static/js/main.0814b0a3.js",
+    "main.css": "/static/css/main.5f24a0a7.css",
+    "main.js": "/static/js/main.d4aacd32.js",
     "static/js/787.ef59d076.chunk.js": "/static/js/787.ef59d076.chunk.js",
     "static/media/hero-animation.mp4": "/static/media/hero-animation.a540857fbcd3c8cb0eae.mp4",
     "static/media/13.png": "/static/media/13.8e1faef915ae04534afd.png",
     "static/media/hookman-cover.png": "/static/media/hookman-cover.25a422740dd1ae0a84d7.png",
     "static/media/08.png": "/static/media/08.05ead874bb6a8285eeb4.png",
+    "static/media/dance.png": "/static/media/dance.90430475d2e6c2aa098e.png",
     "static/media/3d-graphing-cover.png": "/static/media/3d-graphing-cover.de0c87da4af78f8e61f0.png",
     "static/media/02.png": "/static/media/02.391496d1bf455f58208c.png",
     "static/media/06.png": "/static/media/06.b06a750f8c54689c8d79.png",
@@ -22,12 +23,12 @@
     "static/media/12.png": "/static/media/12.080ca30ac7c55cd8aa2a.png",
     "index.html": "/index.html",
     "static/media/button-arrow.svg": "/static/media/button-arrow.dcc3e6f57d6158b79d3df23e7e082d7a.svg",
-    "main.6dafb998.css.map": "/static/css/main.6dafb998.css.map",
-    "main.0814b0a3.js.map": "/static/js/main.0814b0a3.js.map",
+    "main.5f24a0a7.css.map": "/static/css/main.5f24a0a7.css.map",
+    "main.d4aacd32.js.map": "/static/js/main.d4aacd32.js.map",
     "787.ef59d076.chunk.js.map": "/static/js/787.ef59d076.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dafb998.css",
-    "static/js/main.0814b0a3.js"
+    "static/css/main.5f24a0a7.css",
+    "static/js/main.d4aacd32.js"
   ]
 }

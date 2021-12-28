@@ -11,14 +11,21 @@ function App() {
     return (
         <>
             <Hero/>
+            <div className="break">
+                <div/>
+            </div>
             <section className="about-section">
                 <div className="about-container">
                     <h1>About</h1>
-                    <p><b>Hello! I am a game developer, an artist, a dancer, a website developer.</b> In this portfolio, you
-                        will find some of my projects from all these categories.<b> This portfolio is fully responsive and
-                            was created with React JS and hosted using GitHub pages and a domain provider.</b></p>
+                    <p><b>Hello! I am a game developer, an artist, a dancer, a website developer.</b> In this portfolio,
+                        you
+                        will find some of my projects from all these categories.<b> This portfolio is fully responsive
+                            and was created with React JS.</b></p>
                 </div>
             </section>
+            <div className="break">
+                <div/>
+            </div>
             <Projects/>
             <div className="break">
                 <div/>

@@ -33,7 +33,7 @@ function Art() {
                 />
             </div>
             <div className="gallery">
-                <h1>More Work</h1>
+                <h1>More Art</h1>
                 <img src={Img01}/>
                 <img src={Img02}/>
                 <img src={Img03}/>

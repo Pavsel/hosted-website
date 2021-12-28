@@ -33,23 +33,25 @@ function Projects() {
                             title="3D Graphing"
                             description="Hyperbolic graphing webapp. Created with React JS, and three.js library"
                             backgroundImage={GraphingCover}
-                            link="https://google.com"/></div>
+                            link="https://3d.pavel-ivanov.ca/"/></div>
                 </div>
             </div>
-            <div className="break"/>
+            <div className="break">
+                <div/>
+            </div>
             <div className='SP-container'>
+                <h1>More Projects</h1>
                 <ProjectDisplaySmall
                     title="Bail the Fail"
-                    description="First Game Jam - 1 week with a friend."
+                    description="First Game Jam - 1 week with a friend. Placed TOP20, created a 3D space farming game using Unity3D with C#."
                     link="https://itch.io/jam/blackthornprodgamejam2/rate/378616"
                 />
                 <ProjectDisplaySmall
                     title="YouTube"
-                    description="Over 6K views on a tutorial video I uploaded."
+                    description="Over 6K views on a tutorial video I uploaded. I learned a lot about video SEO and am really looking to going back and making more."
                     link="https://www.youtube.com/watch?v=tPtKNvifpj0&t=454s"
                 />
             </div>
-            <div className="break"/>
         </section>
     );
 }

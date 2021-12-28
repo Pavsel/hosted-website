@@ -16,6 +16,7 @@
     align-items: center;
 
     /*text-align: start;*/
+    position: relative;
 }
 
 .my-btn > img{

@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.8d3de03d.css",
-    "main.js": "/static/js/main.dd4b823f.js",
+    "main.js": "/static/js/main.b0e6b548.js",
     "static/js/787.ef59d076.chunk.js": "/static/js/787.ef59d076.chunk.js",
+    "static/media/Shoe Edited.jpg": "/static/media/Shoe Edited.c19e66d1c6e74e1cc7e4.jpg",
     "static/media/hero-animation.mp4": "/static/media/hero-animation.a540857fbcd3c8cb0eae.mp4",
     "static/media/13.png": "/static/media/13.8e1faef915ae04534afd.png",
     "static/media/hookman-cover.png": "/static/media/hookman-cover.25a422740dd1ae0a84d7.png",
@@ -24,11 +25,11 @@
     "index.html": "/index.html",
     "static/media/button-arrow.svg": "/static/media/button-arrow.dcc3e6f57d6158b79d3df23e7e082d7a.svg",
     "main.8d3de03d.css.map": "/static/css/main.8d3de03d.css.map",
-    "main.dd4b823f.js.map": "/static/js/main.dd4b823f.js.map",
+    "main.b0e6b548.js.map": "/static/js/main.b0e6b548.js.map",
     "787.ef59d076.chunk.js.map": "/static/js/787.ef59d076.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d3de03d.css",
-    "static/js/main.dd4b823f.js"
+    "static/js/main.b0e6b548.js"
   ]
 }

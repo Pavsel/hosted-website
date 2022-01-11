@@ -15,6 +15,7 @@ import Img10 from "../../assets/Art Grid/10.png"
 import Img11 from "../../assets/Art Grid/11.png"
 import Img12 from "../../assets/Art Grid/12.png"
 import Img13 from "../../assets/Art Grid/13.png"
+import Img14 from "../../assets/Art Grid/Shoe Edited.jpg"
 
 function Art() {
     return (
@@ -34,6 +35,7 @@ function Art() {
             </div>
             <div className="gallery">
                 <h1>More Art</h1>
+                <img src={Img14}/>
                 <img src={Img01}/>
                 <img src={Img02}/>
                 <img src={Img03}/>

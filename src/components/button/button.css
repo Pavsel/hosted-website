@@ -4,26 +4,20 @@
     color: white;
     border: none;
 
-    padding: 2% 10%;
-    width: 15vw;
-    height: 50px;
+    padding: 1rem 2rem;
+    /*width: 15vw;*/
+    /*height: 50px;*/
 
     cursor: pointer;
     outline: inherit;
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: space-between;
     align-items: center;
+    column-gap: 2rem;
 
     /*text-align: start;*/
     position: relative;
-}
-
-.my-btn > img{
-    position: absolute;
-    right: 10%;
-
-    transition: ease-in-out 0.2s;
 }
 
 .my-btn :after{
@@ -35,10 +29,6 @@
     top: calc(100% + 3px);
     left: 0;
 
-}
-
-.my-btn:hover img{
-    right: 7%;
 }
 
 .my-btn:hover{

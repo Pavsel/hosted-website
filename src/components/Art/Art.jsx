@@ -2,7 +2,7 @@ import React from "react";
 import './art.css';
 import ButtonBlack from "../button/button-black/ButtonBlack";
 
-import Img01 from "../../assets/Art Grid/01.png"
+import Img01 from "../../assets/Art Grid/Abstract Spin.jpg"
 import Img02 from "../../assets/Art Grid/02.png"
 import Img03 from "../../assets/Art Grid/03.png"
 import Img04 from "../../assets/Art Grid/04.png"
@@ -16,6 +16,11 @@ import Img11 from "../../assets/Art Grid/11.png"
 import Img12 from "../../assets/Art Grid/12.png"
 import Img13 from "../../assets/Art Grid/13.png"
 import Img14 from "../../assets/Art Grid/Shoe Edited.jpg"
+import Img15 from "../../assets/Art Grid/render-less-grain.jpg"
+import Img16 from "../../assets/Art Grid/render.png"
+import Img17 from "../../assets/Art Grid/ezgif.com-gif-maker (2).gif"
+import Img18 from "../../assets/Art Grid/ezgif.com-gif-maker (3).gif"
+import Img19 from "../../assets/Art Grid/ezgif.com-gif-maker (5).gif"
 
 function Art() {
     return (
@@ -35,8 +40,13 @@ function Art() {
             </div>
             <div className="gallery">
                 <h1>More Art</h1>
+                <img src={Img17}/>
+                <img src={Img15}/>
+                <img src={Img19}/>
+                <img src={Img18}/>
                 <img src={Img14}/>
                 <img src={Img01}/>
+                <img src={Img16}/>
                 <img src={Img02}/>
                 <img src={Img03}/>
                 <img src={Img04}/>
@@ -47,8 +57,8 @@ function Art() {
                 <img src={Img09}/>
                 <img src={Img10}/>
                 <img src={Img11}/>
-                <img src={Img12}/>
-                <img src={Img13}/>
+                {/*<img src={Img12}/>*/}
+                {/*<img src={Img13}/>*/}
             </div>
         </section>
     );
